@@ -1,0 +1,27 @@
+/* colors */
+:root{ 
+
+    --actent-color: #FED136;
+    --back-and-text-color: #222;
+    --color-for-article: #777;
+    --color-for-forms: #BBB;
+}
+/* font */
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Bilbo Swash Caps', cursive;
+.circules{
+    border: var(--actent-color) solid 3px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+li{
+list-style: none;
+}
+a{
+text-decoration: none;
+}
+h2{
+    text-transform: none;
+}
