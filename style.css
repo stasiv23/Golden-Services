@@ -25,3 +25,10 @@ text-decoration: none;
 h2{
     text-transform: none;
 }
+.container{
+    border: 1px  black solid;
+    width: 942px ;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
